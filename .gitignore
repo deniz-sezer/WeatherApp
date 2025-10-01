@@ -1,0 +1,24 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ortam dosyaları
+.env
+
+# Veritabanı dosyası
+db.sqlite3
+
+# Django migration cache
+*.log
+*.pot
+*.pyc
+*.mo
+
+# VSCode ayarları
+.vscode/
+
+# macOS / Windows gereksiz dosyalar
+.DS_Store
+Thumbs.db
